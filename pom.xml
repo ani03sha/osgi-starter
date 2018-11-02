@@ -225,7 +225,7 @@
 						<Bundle-Description>Demo code for various concepts of OSGi</Bundle-Description>
 						<Bundle-Vendor>Redquark</Bundle-Vendor>
 						<Bundle-Version>1.0.0</Bundle-Version>
-						<Bundle-Activator>org.redquark.osgi.starter.core.Activator</Bundle-Activator>
+						<Bundle-Activator>org.redquark.osgi.starter.core.DictionaryClientActivator</Bundle-Activator>
 						<Import-Package>org.osgi.framework</Import-Package>
 					</instructions>
 				</configuration>
